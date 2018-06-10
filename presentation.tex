@@ -1,0 +1,79 @@
+\documentclass[compress, blue, 14pt,hyperref={pdfpagemode=FullScreen}]{beamer}
+\usepackage{emerald}
+\usepackage[T1]{fontenc}
+\usetheme{Goettingen}
+\usepackage[utf8]{vietnam}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{amsfonts}
+\usepackage{multimedia}
+\usepackage{xcolor}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{calligra}
+\usepackage{mathpazo}
+\usepackage{eso-pic}
+\beamertemplatenavigationsymbolsempty
+\newcommand\AtPagemyUpperLeft[1]{\AtPageLowerLeft{%
+\put(\LenToUnit{0.882\paperwidth},\LenToUnit{0.88\paperheight}){#1}}}
+\AddToShipoutPictureFG{
+  \AtPagemyUpperLeft{{\includegraphics[width=1cm,keepaspectratio]{images/LogoBK.png}}}
+}%
+
+
+
+\setbeamertemplate{footline}[frame number]
+\author[]{\includegraphics[width=3cm]{images/LogoBK.png}\\ { }}
+\title[]{Thiết kế \& Hiện thực \\ Điều khiển Robot người }
+\logo{\includegraphics[scale=.5]{images/LogoBK.png}}
+\institute[Khoa Khoa Học \& Kỹ Thuật Máy Tính, Đại Học Bách Khoa - Tp.HCM]{Trường Đại Học Bách Khoa Tp.HCM \\ Khoa Khoa Học \& Kỹ Thuật Máy Tính}
+\setbeamertemplate{footline}[text line]{%
+  \parbox{\linewidth}{\vspace*{-15pt}Humanoid Robot \hfill Đại Học Bách Khoa Tp.HCM \hfill\insertframenumber}}
+\setbeamertemplate{navigation symbols}{}
+\newcounter{sauvegardeenumi}
+\newcommand{\asuivre}{\setcounter{sauvegardeenumi}{\theenumi}}
+\newcommand{\suite}{\setcounter{enumi}{\thesauvegardeenumi}}
+%\setbeamercovered{transparent} 
+%\setbeamertemplate{navigation symbols}{} 
+%\institute{} 
+\date{} 
+%\subject{} 
+\begin{document}
+
+%\section*{Outline}
+%\begin{frame}
+%\tableofcontents
+%\end{frame}
+
+
+\begin{frame}
+\transdissolve
+\titlepage
+\end{frame}
+\begin{frame}{Nhóm: }
+\transblindshorizontal
+\begin{tabular}{clcc}
+1. &Nguyễn Hương  &$\displaystyle{-}$& 1411646 \\
+2. &Bùi Thanh Tùng & $\displaystyle{-}$ & 1414517\\
+\end{tabular} 
+\end{frame}
+\small{
+\begin{frame}{Outline}
+\transblindshorizontal
+\tableofcontents
+\end{frame}
+}
+
+\section*{}\begin{frame}
+\transdissolve
+\begin{center}
+\begin{Huge}
+\color{blue}{Cảm ơn các thầy đã lắng nghe}
+\end{Huge}
+\end{center}
+\end{frame}
+\end{document}
