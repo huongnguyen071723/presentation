@@ -17,6 +17,10 @@
 \usepackage{calligra}
 \usepackage{mathpazo}
 \usepackage{eso-pic}
+\usetikzlibrary{shadows}
+\usepackage{animate}
+\usetikzlibrary{mindmap,trees}
+\usepackage{adjustbox}
 \beamertemplatenavigationsymbolsempty
 \newcommand\AtPagemyUpperLeft[1]{\AtPageLowerLeft{%
 \put(\LenToUnit{0.882\paperwidth},\LenToUnit{0.88\paperheight}){#1}}}
@@ -54,6 +58,13 @@
 \transdissolve
 \titlepage
 \end{frame}
+\begin{frame}{}
+\transblindshorizontal
+\begin{tabular}{ll}
+Giáo viên hướng dẫn: & TS.Phạm Hoàng Anh \\ 
+Giáo viên phản biện: & TS.Lê Trọng Nhân \\  
+\end{tabular} 
+\end{frame}
 \begin{frame}{Nhóm: }
 \transblindshorizontal
 \begin{tabular}{clcc}
@@ -67,12 +78,176 @@
 \tableofcontents
 \end{frame}
 }
+\section{Giới thiệu}
+\subsection{Mục tiêu đề tài}
+\begin{frame}{Giới thiệu}{Mục tiêu đề tài}
+\transdissolve
+\begin{itemize}
+\item Robot có chuyển động giống con người.
+\pause 
+\item Hiện thực các phương pháp giao tiếp và điều khiển robot người.
+\end{itemize}
+\end{frame}
+\subsection{Giới hạn đề tài}
+\begin{frame}{Giới thiệu}{Giới hạn đề tài}
+\transdissolve
+\begin{itemize}
+\item Giới hạn của phần cứng robot.
+\pause 
+\item Hạn chế về điện áp của board Intel Edison. 
+\end{itemize}
+\end{frame}
 
+\section{Phương pháp tiếp cận}
+\subsection{Phần cứng}
+\begin{frame}{Phương pháp tiếp cận}{Phần cứng}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.15]{images/01_150_2_1024x1024.jpg}
+\caption{Robot-16DOF}
+\end{figure}
+\end{frame}
+\begin{frame}{Phương pháp tiếp cận}{Phần cứng}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[height = 2cm]{images/MakerBoards-Edison.jpg}
+\includegraphics[height = 2.4cm]{images/GPIOBlockAnnotated.png}
+\includegraphics[height = 2.4cm]{images/BaseAnnotated.png}
+\caption{Bộ board Intel Edison}
+\end{figure}
+\end{frame}
+\subsection{Mô hình chuyển động của robot}
+\begin{frame}{Phương pháp tiếp cận}{Mô hình chuyển động của robot}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.22]{images/ThietkeRobot.png}
+\caption{Cấu tạo các khớp của robot}
+\end{figure}
+\end{frame}
+\subsection{Công cụ hỗ trợ phát triển}
+\begin{frame}{Phương pháp tiếp cận}{Công cụ hỗ trợ phát triển}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.22]{images/Torobot.png}
+\caption{Giao diện phần mềm Torobot}
+\end{figure}
+
+\end{frame}
+\section{Thiết kế \& Hiện thực}
+\subsection{Mô hình hệ thống}
+\begin{frame}{Thiết kế \& Hiện thực}{Mô hình hệ thống}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.65]{images/overview.png}
+\caption{Mô hình chung của hệ thống}
+\end{figure}
+\end{frame}
+\begin{frame}{Thiết kế \& Hiện thực}{Mô hình hệ thống}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.5]{images/protocol.png}
+\caption{Giao thức kết nối}
+\end{figure}
+\end{frame}
+\subsection{Module xử lí chính}
+\begin{frame}{Thiết kế \& Hiện thực}{Module xử lí chính}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.3]{images/core.png}
+\caption{Cấu trúc tổng quát}
+\end{figure}
+\end{frame}
+\begin{frame}{Thiết kế \& Hiện thực}{Module xử lí chính}
+\begin{figure}[H]
+\begin{adjustbox}{max totalsize={1\textwidth}{0.7\textheight},center}
+\begin{tikzpicture}[mindmap, grow cyclic,align=flush center, every node/.style=concept, concept color=orange!80, text=black!90, scale= 0.9,
+    level 1/.append style={level distance=4cm,sibling angle=72},
+    level 2/.append style={level distance=3cm,sibling angle=55},
+    level 3/.append style={level distance=2cm,sibling angle=38},
+    level 4/.append style={level distance=3cm,sibling angle=30}]
+
+\node[scale = 0.7]{Ứng dụng}
+    child [concept color=blue!75] { node {Package}
+    	child[sibling angle=95]{ node{mraa}}
+        child[] { node {Nodejs}
+			child[]{node{bleno}} 
+			child[]{node{http}
+				%child[level distance=2cm,sibling angle=-90,concept color=blue!60]{ node{ESP-8266}}			
+			}       
+			child[]{node{express}
+			}
+			child[]{node{morgan}
+			}
+			child[]{node{path}
+			}
+			child[]{node{mraa}
+			}
+        }     
+    }
+    child [concept color=yellow!70] { node {Kết nối}
+        child { node {Wifi}}
+        child { node {BLE}}
+    }
+    child [concept color=green!75] { node {Cấu trúc}
+        child [sibling angle=110] { node {server}
+			child[concept color=green!55]{node {}}
+			child[concept color=green!55]{node{}}
+			child[concept color=green!55]{node{}} 
+        }
+        child[] { node {web}
+			child[concept color=green!55]{node{css}}
+			child[concept color=green!55]{node{html}}
+			child[concept color=green!55]{node{JS}}         
+        }
+    }
+    child [concept color=red!70] { node {Ngôn ngữ}
+        child []{ node {JavaScript}   
+        }
+        child [] { node {html}
+        }
+        child []{ node {css}}
+    };
+
+\end{tikzpicture}
+\end{adjustbox}
+\caption{Mô hình ứng dụng trên Intel Edison}
+\end{figure}
+\end{frame}
+\subsection{Module điều khiển}
+\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{1. Web}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.25]{images/web_layout.PNG}
+\caption{Giao diện Web điều khiển}
+\end{figure}
+\end{frame}
+\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{1. Web}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.6]{images/flowchart_web.png}
+\caption{Flowchart hoạt động}
+\end{figure}
+\end{frame}
+\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{2. Android App}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.22]{images/1528618723907.JPEG}
+\caption{Giao diện điều khiển}
+\end{figure}
+\end{frame}
+\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{2. Android App}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.45]{images/flowchart_app.png}
+\caption{Flowchart hoạt động}
+\end{figure}
+\end{frame}
+\section{Kết luận}
 \section*{}\begin{frame}
 \transdissolve
 \begin{center}
 \begin{Huge}
-\color{blue}{Cảm ơn các thầy đã lắng nghe}
+\color{blue}{Cảm ơn các thầy/cô đã lắng nghe}
 \end{Huge}
 \end{center}
 \end{frame}

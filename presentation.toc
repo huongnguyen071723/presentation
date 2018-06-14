@@ -1,1 +1,13 @@
 \select@language {english}
+\beamer@sectionintoc {1}{Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{5}{0}{1}
+\beamer@subsectionintoc {1}{1}{M\IeC {\d u}c ti\IeC {\^e}u \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Gi\IeC {\'\ohorn }i h\IeC {\d a}n \IeC {\dj }\IeC {\`\ecircumflex } t\IeC {\`a}i}{7}{0}{1}
+\beamer@sectionintoc {2}{Ph\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\'a}p ti\IeC {\'\ecircumflex }p c\IeC {\d \acircumflex }n}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Ph\IeC {\`\acircumflex }n c\IeC {\'\uhorn }ng}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{M\IeC {\^o} h\IeC {\`\i }nh chuy\IeC {\h \ecircumflex }n \IeC {\dj }\IeC {\d \ocircumflex }ng c\IeC {\h u}a robot}{11}{0}{2}
+\beamer@subsectionintoc {2}{3}{C\IeC {\^o}ng c\IeC {\d u} h\IeC {\~\ocircumflex } tr\IeC {\d \ohorn } ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n}{12}{0}{2}
+\beamer@sectionintoc {3}{Thi\IeC {\'\ecircumflex }t k\IeC {\'\ecircumflex } \& Hi\IeC {\d \ecircumflex }n th\IeC {\d \uhorn }c}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{M\IeC {\^o} h\IeC {\`\i }nh h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Module x\IeC {\h \uhorn } l\IeC {\'\i } ch\IeC {\'\i }nh}{15}{0}{3}
+\beamer@subsectionintoc {3}{3}{Module \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n}{17}{0}{3}
+\beamer@sectionintoc {4}{K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{21}{0}{4}
