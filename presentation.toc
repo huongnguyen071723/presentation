@@ -10,4 +10,9 @@
 \beamer@subsectionintoc {3}{1}{M\IeC {\^o} h\IeC {\`\i }nh h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng}{13}{0}{3}
 \beamer@subsectionintoc {3}{2}{Module x\IeC {\h \uhorn } l\IeC {\'\i } ch\IeC {\'\i }nh}{15}{0}{3}
 \beamer@subsectionintoc {3}{3}{Module \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n}{17}{0}{3}
-\beamer@sectionintoc {4}{K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{21}{0}{4}
+\beamer@subsectionintoc {3}{4}{Chuy\IeC {\h \ecircumflex }n \IeC {\dj }\IeC {\d \ocircumflex }ng c\IeC {\h u}a robot}{23}{0}{3}
+\beamer@subsectionintoc {3}{5}{T\IeC {\uhorn } th\IeC {\'\ecircumflex } \IeC {\dj }\IeC {\~a} hi\IeC {\d \ecircumflex }n th\IeC {\d \uhorn }c}{24}{0}{3}
+\beamer@sectionintoc {4}{K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{25}{0}{4}
+\beamer@subsectionintoc {4}{1}{K\IeC {\'\ecircumflex }t qu\IeC {\h a} \IeC {\dj }\IeC {\d a}t \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c}{25}{0}{4}
+\beamer@subsectionintoc {4}{2}{Kh\IeC {\'o} kh\IeC {\u a}n v\IeC {\`a} h\IeC {\uhorn }\IeC {\'\ohorn }ng gi\IeC {\h a}i quy\IeC {\'\ecircumflex }t}{29}{0}{4}
+\beamer@subsectionintoc {4}{3}{H\IeC {\uhorn }\IeC {\'\ohorn }ng ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n}{35}{0}{4}
