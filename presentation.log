@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.20)  16 JUN 2018 11:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.20)  23 JUN 2018 11:05
 entering extended mode
 **./presentation.tex
 (presentation.tex
@@ -1570,104 +1570,153 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@loff=\dimen316
 \@vwid@roff=\dimen317
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count337
+\mult@box=\box81
+\multicol@leftmargin=\dimen318
+\c@unbalance=\count338
+\c@collectmore=\count339
+\doublecol@number=\count340
+\multicoltolerance=\count341
+\multicolpretolerance=\count342
+\full@width=\dimen319
+\page@free=\dimen320
+\premulticols=\dimen321
+\postmulticols=\dimen322
+\multicolsep=\skip66
+\multicolbaselineskip=\skip67
+\partial@page=\box82
+\last@line=\box83
+\maxbalancingoverflow=\dimen323
+\mult@rightbox=\box84
+\mult@grightbox=\box85
+\mult@gfirstbox=\box86
+\mult@firstbox=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\c@columnbadness=\count343
+\c@finalcolumnbadness=\count344
+\last@try=\dimen324
+\multicolovershoot=\dimen325
+\multicolundershoot=\dimen326
+\mult@nat@firstbox=\box105
+\colbreak@box=\box106
+\mc@col@check@num=\count345
+)
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\new@ifnextchar' on input line 34.
+(hyperref)                removing `\new@ifnextchar' on input line 38.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 34.
+(hyperref)                removing `\\' on input line 38.
 
-\c@sauvegardeenumi=\count337
+\c@sauvegardeenumi=\count346
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 49.
+(hyperref)                removing `\textacute' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 49.
+(hyperref)                removing `\ecircumflex' on input line 60.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 49.
+(hyperref)                removing `\textacute' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 49.
+(hyperref)                removing `\ecircumflex' on input line 60.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 49.
+(hyperref)                removing `\textdotbelow' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 49.
+(hyperref)                removing `\ecircumflex' on input line 60.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 49.
+(hyperref)                removing `\textdotbelow' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 49.
+(hyperref)                removing `\uhorn' on input line 60.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 49.
+(hyperref)                removing `\textasciigrave' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 49.
+(hyperref)                removing `\ecircumflex' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 49.
+(hyperref)                removing `\h' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 49.
+(hyperref)                removing `\ecircumflex' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 49.
+(hyperref)                removing `\uhorn' on input line 60.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ohorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 49.
+(hyperref)                removing `\textasciigrave' on input line 60.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 49.
+(hyperref)                removing `\ohorn' on input line 60.
 
 (presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 49.
-LaTeX Font Info:    Try loading font information for T5+cmr on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 60.
+LaTeX Font Info:    Try loading font information for T5+cmr on input line 60.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\vntex\t5cmr.fd"
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1705,16 +1754,16 @@ LaTeX Font Info:    ... okay on input line 49.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
-\scratchdimen=\dimen318
-\scratchbox=\box81
-\nofMPsegments=\count339
-\nofMParguments=\count340
+\scratchcounter=\count347
+\scratchdimen=\dimen327
+\scratchbox=\box107
+\nofMPsegments=\count348
+\nofMParguments=\count349
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count341
-\MPscratchDim=\dimen319
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
+\MPscratchCnt=\count350
+\MPscratchDim=\dimen328
+\MPnumerator=\count351
+\makeMPintoPDFobject=\count352
 \everyMPtoPDFconversion=\toks51
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1730,8 +1779,8 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring OFF on input line 49.
+\AtBeginShipoutBox=\box108
+Package hyperref Info: Link coloring OFF on input line 60.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1739,73 +1788,73 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count344
+\c@section@level=\count353
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
 
 (presentation.out) (presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/ppl/m/n --> OT1/cmss/m/n on input line 49.
+(Font)                  OT1/ppl/m/n --> OT1/cmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/ppl/b/n --> OT1/cmss/bx/n on input line 49.
+(Font)                  OT1/ppl/b/n --> OT1/cmss/bx/n on input line 60.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T5/ppl/m/n on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 49.
+(Font)                  OT1/cmss/m/n --> T5/ppl/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/zplm/b/n --> T5/cmss/bx/n on input line 49.
+(Font)                  OT1/zplm/b/n --> T5/cmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/zplm/b/n --> T5/cmss/bx/n on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 49.
+(Font)                  OT1/zplm/b/n --> T5/cmss/bx/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T5/cmss/m/n on input line 49.
+(Font)                  OT1/cmss/m/n --> T5/cmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T5/cmss/m/n on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 49.
+(Font)                  OT1/cmss/bx/n --> T5/cmss/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/ppl/m/it --> T5/cmss/m/it on input line 49.
+(Font)                  OT1/ppl/m/it --> T5/cmss/m/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ppl/b/it --> T5/cmss/m/it on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 49.
+(Font)                  OT1/ppl/b/it --> T5/cmss/m/it on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T5/cmtt/m/n on input line 49.
+(Font)                  OT1/cmtt/m/n --> T5/cmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T5/cmtt/m/n on input line 49.
+(Font)                  OT1/cmtt/m/n --> T5/cmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T5/cmss/m/n --> T5/cmss/bx/n on input line 49.
+(Font)                  T5/cmss/m/n --> T5/cmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T5/cmss/m/it --> T5/cmss/bx/it on input line 49.
+(Font)                  T5/cmss/m/it --> T5/cmss/bx/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T5/ppl/bx/n on input line 49.
+(Font)                  OT1/cmss/bx/n --> T5/ppl/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T5/cmss/bx/n --> T5/cmss/bx/n on input line 49.
+(Font)                  T5/cmss/bx/n --> T5/cmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T5/cmss/m/n --> T5/cmss/bx/n on input line 49.
+(Font)                  T5/cmss/m/n --> T5/cmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T5/cmss/m/it --> T5/cmss/bx/it on input line 49.
+(Font)                  T5/cmss/m/it --> T5/cmss/bx/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T5/cmtt/m/n --> T5/cmtt/bx/n on input line 49.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 49.
+(Font)                  T5/cmtt/m/n --> T5/cmtt/bx/n on input line 60.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 60.
 LaTeX Font Info:    Encoding `T5' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 49
+(Font)              `pureletters' in the math version `normal' on input line 60
 .
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T5/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 49
+(Font)                  T5/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 60
 .
 LaTeX Font Info:    Encoding `T5' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 49.
+(Font)              `pureletters' in the math version `bold' on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T5/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 4
-9.
+(Font)                  T5/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 6
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 49.
+ut line 60.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
 c-dictionary\translator-basic-dictionary-English.dict"
@@ -1831,484 +1880,469 @@ Dictionary: translator-numbers-dictionary, Language: English
 rem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 49.
+LaTeX Info: Redefining \includegraphics on input line 60.
  (presentation.nav)
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 49.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 60.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 49.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 60.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 49.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 60.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 49.
+(Font)              scaled to size 6.25204pt on input line 60.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 49.
+(Font)              scaled to size 5.21004pt on input line 60.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 49.
+(Font)              scaled to size 6.25204pt on input line 60.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 49.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 49.
+(Font)              scaled to size 5.21004pt on input line 60.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 60.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 49.
+line 60.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<images/LogoBK.png, id=103, 476.78125pt x 481.8pt>
+<images/LogoBK.png, id=107, 476.78125pt x 481.8pt>
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 60.
+Package pdftex.def Info: images/LogoBK.png used on input line 70.
 (pdftex.def)             Requested size: 85.35826pt x 86.2571pt.
-File: images/LogoBK.png Graphic file (type png)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 70.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 70.
 
+Overfull \hbox (22.95894pt too wide) in paragraph at lines 70--70
+ [][] 
+ []
+
+
+Overfull \vbox (11.7749pt too high) detected at line 70
+ []
+
+File: images/LogoBK.png Graphic file (type png)
 <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 60.
+Package pdftex.def Info: images/LogoBK.png used on input line 70.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./images/LogoBK.png>]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 67.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 67.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 67.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 67.
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 67.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [2
-
-]
+ <./images/LogoBK.png>] (presentation.toc)
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
 Package pdftex.def Info: images/LogoBK.png used on input line 74.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
+ [2
 
-[3
+]
 
-] (presentation.toc)
+Package hyperref Warning: Composite letter `\textacute+\ohorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 76.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 76.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 76.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 76.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 77.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\dj' on input line 77.
+
+
+Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciigrave' on input line 77.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 77.
+
 File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 79.
+<use images/LogoBK.png>
+Package pdftex.def Info: images/LogoBK.png used on input line 85.
+(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
+ [3
+
+]
+
+Package hyperref Warning: Composite letter `\textacute+\ohorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 86.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 86.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+a'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 86.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\dj' on input line 86.
+
+
+Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciigrave' on input line 86.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 86.
+
+File: images/LogoBK.png Graphic file (type png)
+<use images/LogoBK.png>
+Package pdftex.def Info: images/LogoBK.png used on input line 92.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
  [4
 
 ]
 
-Package hyperref Warning: Composite letter `\textacute+\ohorn'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 81.
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 81.
-
-
-Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 81.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 81.
-
-
-Package hyperref Warning: Composite letter `\textdotbelow+u'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 82.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 82.
-
-
-Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 82.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 82.
-
-File: images/LogoBK.png Graphic file (type png)
-<use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 90.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [5
-
-]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 90.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [6
-
-]
-
-Package hyperref Warning: Composite letter `\textacute+\ohorn'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 91.
-
-
-Package hyperref Warning: Composite letter `\textdotbelow+a'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 91.
-
-
-Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 91.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 91.
-
-File: images/LogoBK.png Graphic file (type png)
-<use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 99.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [7
-
-]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 99.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [8
-
-]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 101.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 101.
+(hyperref)                removing `\ohorn' on input line 94.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 101.
+(hyperref)                removing `\textacute' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 101.
+(hyperref)                removing `\ecircumflex' on input line 94.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 101.
+(hyperref)                removing `\textdotbelow' on input line 94.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 101.
+(hyperref)                removing `\acircumflex' on input line 94.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 102.
+(hyperref)                removing `\textasciigrave' on input line 95.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 102.
+(hyperref)                removing `\acircumflex' on input line 95.
 
 
 Package hyperref Warning: Composite letter `\textacute+\uhorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 102.
+(hyperref)                removing `\textacute' on input line 95.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 102.
+(hyperref)                removing `\uhorn' on input line 95.
 
-<images/01_150_2_1024x1024.jpg, id=317, 1003.75pt x 1003.75pt>
+<images/01_150_2_1024x1024.jpg, id=238, 580.1675pt x 905.3825pt>
 File: images/01_150_2_1024x1024.jpg Graphic file (type jpg)
 
 <use images/01_150_2_1024x1024.jpg>
-Package pdftex.def Info: images/01_150_2_1024x1024.jpg used on input line 110.
-(pdftex.def)             Requested size: 150.556pt x 150.556pt.
+Package pdftex.def Info: images/01_150_2_1024x1024.jpg used on input line 117.
+(pdftex.def)             Requested size: 87.02136pt x 135.80151pt.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 117.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 117.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 117.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 117.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 117.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 117.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 117.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 117.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 110.
+Package pdftex.def Info: images/LogoBK.png used on input line 117.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [9
+ [5
 
  <./images/01_150_2_1024x1024.jpg>]
-<images/MakerBoards-Edison.jpg, id=339, 376.40625pt x 206.7725pt>
+<images/MakerBoards-Edison.jpg, id=265, 376.40625pt x 206.7725pt>
 File: images/MakerBoards-Edison.jpg Graphic file (type jpg)
 
 <use images/MakerBoards-Edison.jpg>
-Package pdftex.def Info: images/MakerBoards-Edison.jpg used on input line 120.
+Package pdftex.def Info: images/MakerBoards-Edison.jpg used on input line 126.
 (pdftex.def)             Requested size: 103.58957pt x 56.9055pt.
 
-<images/GPIOBlockAnnotated.png, id=340, 451.6875pt x 388.45125pt>
+<images/GPIOBlockAnnotated.png, id=266, 451.6875pt x 388.45125pt>
 File: images/GPIOBlockAnnotated.png Graphic file (type png)
 
 <use images/GPIOBlockAnnotated.png>
-Package pdftex.def Info: images/GPIOBlockAnnotated.png used on input line 120.
+Package pdftex.def Info: images/GPIOBlockAnnotated.png used on input line 126.
 (pdftex.def)             Requested size: 79.398pt x 68.28644pt.
 
-<images/BaseAnnotated.png, id=341, 451.6875pt x 288.3272pt>
+<images/BaseAnnotated.png, id=267, 451.6875pt x 288.3272pt>
 File: images/BaseAnnotated.png Graphic file (type png)
 
 <use images/BaseAnnotated.png>
-Package pdftex.def Info: images/BaseAnnotated.png used on input line 120.
+Package pdftex.def Info: images/BaseAnnotated.png used on input line 126.
 (pdftex.def)             Requested size: 106.97363pt x 68.28644pt.
 
-Overfull \hbox (11.12407pt too wide) in paragraph at lines 120--120
+Overfull \hbox (11.12407pt too wide) in paragraph at lines 126--126
  [][][] 
  []
 
 File: images/LogoBK.png Graphic file (type png)
 <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 120.
+Package pdftex.def Info: images/LogoBK.png used on input line 126.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [10
+ [6
 
  <./images/MakerBoards-Edison.jpg> <./images/GPIOBlockAnnotated.png> <./images/
 BaseAnnotated.png>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 121.
+(hyperref)                removing `\h' on input line 127.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 121.
+(hyperref)                removing `\ecircumflex' on input line 127.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 121.
+(hyperref)                removing `\dj' on input line 127.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 121.
+(hyperref)                removing `\textdotbelow' on input line 127.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 121.
+(hyperref)                removing `\ocircumflex' on input line 127.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 121.
+(hyperref)                removing `\h' on input line 127.
 
-<images/ThietkeRobot.png, id=366, 1181.91562pt x 752.8125pt>
+<images/ThietkeRobot.png, id=293, 1181.91562pt x 752.8125pt>
 File: images/ThietkeRobot.png Graphic file (type png)
 
 <use images/ThietkeRobot.png>
-Package pdftex.def Info: images/ThietkeRobot.png used on input line 129.
+Package pdftex.def Info: images/ThietkeRobot.png used on input line 134.
 (pdftex.def)             Requested size: 260.02223pt x 165.61926pt.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 129.
+Package pdftex.def Info: images/LogoBK.png used on input line 134.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [11
+ [7
 
  <./images/ThietkeRobot.png>]
 
 Package hyperref Warning: Composite letter `\textdotbelow+u'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 130.
+(hyperref)                removing `\textdotbelow' on input line 135.
 
 
 Package hyperref Warning: Composite letter `\texttilde+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\texttilde' on input line 130.
+(hyperref)                removing `\texttilde' on input line 135.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 130.
+(hyperref)                removing `\ocircumflex' on input line 135.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ohorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 130.
+(hyperref)                removing `\textdotbelow' on input line 135.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 130.
+(hyperref)                removing `\ohorn' on input line 135.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 130.
+(hyperref)                removing `\h' on input line 135.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 130.
+(hyperref)                removing `\ecircumflex' on input line 135.
 
-<images/Torobot.png, id=388, 1181.91562pt x 594.72188pt>
+<images/Torobot.png, id=317, 1181.91562pt x 594.72188pt>
 File: images/Torobot.png Graphic file (type png)
 
 <use images/Torobot.png>
-Package pdftex.def Info: images/Torobot.png used on input line 139.
+Package pdftex.def Info: images/Torobot.png used on input line 143.
 (pdftex.def)             Requested size: 260.02223pt x 130.83922pt.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 139.
+Package pdftex.def Info: images/LogoBK.png used on input line 143.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [12
+ [8
 
  <./images/Torobot.png>]
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 140.
+(hyperref)                removing `\textacute' on input line 144.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 140.
+(hyperref)                removing `\ecircumflex' on input line 144.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 140.
+(hyperref)                removing `\textacute' on input line 144.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 140.
+(hyperref)                removing `\ecircumflex' on input line 144.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 140.
+(hyperref)                removing `\textdotbelow' on input line 144.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 140.
+(hyperref)                removing `\ecircumflex' on input line 144.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 140.
+(hyperref)                removing `\textdotbelow' on input line 144.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 140.
+(hyperref)                removing `\uhorn' on input line 144.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 141.
+(hyperref)                removing `\textdotbelow' on input line 145.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 141.
+(hyperref)                removing `\ecircumflex' on input line 145.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 141.
+(hyperref)                removing `\textacute' on input line 145.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 141.
+(hyperref)                removing `\ocircumflex' on input line 145.
 
-<images/overview.png, id=410, 425.65323pt x 207.13606pt>
-File: images/overview.png Graphic file (type png)
-
-<use images/overview.png>
-Package pdftex.def Info: images/overview.png used on input line 149.
-(pdftex.def)             Requested size: 276.67131pt x 134.63683pt.
 File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 149.
+<use images/LogoBK.png>
+Package pdftex.def Info: images/LogoBK.png used on input line 153.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [13
+ [9
 
- <./images/overview.png>]
-<images/protocol.png, id=434, 507.31264pt x 232.74355pt>
+]
+<images/protocol.png, id=362, 507.31264pt x 232.74355pt>
 File: images/protocol.png Graphic file (type png)
 
 <use images/protocol.png>
-Package pdftex.def Info: images/protocol.png used on input line 157.
+Package pdftex.def Info: images/protocol.png used on input line 160.
 (pdftex.def)             Requested size: 253.6557pt x 116.37148pt.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 157.
+Package pdftex.def Info: images/LogoBK.png used on input line 160.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [14
+ [10
 
  <./images/protocol.png>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 158.
+(hyperref)                removing `\h' on input line 161.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 158.
+(hyperref)                removing `\uhorn' on input line 161.
 
-<images/core.png, id=457, 426.79134pt x 426.79134pt>
+<images/core.png, id=386, 426.79134pt x 426.79134pt>
 File: images/core.png Graphic file (type png)
  <use images/core.png>
-Package pdftex.def Info: images/core.png used on input line 166.
+Package pdftex.def Info: images/core.png used on input line 168.
 (pdftex.def)             Requested size: 128.03839pt x 128.03839pt.
 File: images/LogoBK.png Graphic file (type png)
 
 <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 166.
+Package pdftex.def Info: images/LogoBK.png used on input line 168.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [15
+ [11
 
  <./images/core.png>]
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 223.
+Package pdftex.def Info: images/LogoBK.png used on input line 224.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
 
-[16
+[12
 
 ]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 224.
+(hyperref)                removing `\dj' on input line 225.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 224.
+(hyperref)                removing `\textasciigrave' on input line 225.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 224.
+(hyperref)                removing `\ecircumflex' on input line 225.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 224.
+(hyperref)                removing `\h' on input line 225.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 224.
+(hyperref)                removing `\ecircumflex' on input line 225.
 
-<images/web_layout.PNG, id=511, 1028.34187pt x 482.55281pt>
+<images/web_layout.PNG, id=442, 1028.34187pt x 482.55281pt>
 File: images/web_layout.PNG Graphic file (type png)
 
 <use images/web_layout.PNG>
@@ -2318,208 +2352,219 @@ File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
 Package pdftex.def Info: images/LogoBK.png used on input line 232.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [17
+ [13
 
- <./images/web_layout.PNG>] <images/flowchart_web.png, id=534, 231.88995pt x 27
+ <./images/web_layout.PNG>] <images/flowchart_web.png, id=467, 231.88995pt x 27
 1.15477pt>
 File: images/flowchart_web.png Graphic file (type png)
 
 <use images/flowchart_web.png>
-Package pdftex.def Info: images/flowchart_web.png used on input line 240.
+Package pdftex.def Info: images/flowchart_web.png used on input line 239.
 (pdftex.def)             Requested size: 139.13503pt x 162.6941pt.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 240.
+Package pdftex.def Info: images/LogoBK.png used on input line 239.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [18
+ [14
 
- <./images/flowchart_web.png>] <images/1528618723907.JPEG, id=557, 406.51875pt 
+ <./images/flowchart_web.png>] <images/1528618723907.JPEG, id=491, 406.51875pt 
 x 703.12688pt>
 File: images/1528618723907.JPEG Graphic file (type jpg)
 
 <use images/1528618723907.JPEG>
-Package pdftex.def Info: images/1528618723907.JPEG used on input line 248.
+Package pdftex.def Info: images/1528618723907.JPEG used on input line 246.
 (pdftex.def)             Requested size: 89.43439pt x 154.68839pt.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 248.
+Package pdftex.def Info: images/LogoBK.png used on input line 246.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [19
+ [15
 
- <./images/1528618723907.JPEG>] <images/flowchart_app.png, id=581, 443.29393pt 
+ <./images/1528618723907.JPEG>] <images/flowchart_app.png, id=515, 443.29393pt 
 x 362.20358pt>
 File: images/flowchart_app.png Graphic file (type png)
 
 <use images/flowchart_app.png>
-Package pdftex.def Info: images/flowchart_app.png used on input line 256.
+Package pdftex.def Info: images/flowchart_app.png used on input line 253.
 (pdftex.def)             Requested size: 199.48041pt x 162.9901pt.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 256.
+Package pdftex.def Info: images/LogoBK.png used on input line 253.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [20
+ [16
 
  <./images/flowchart_app.png>]
-<images/Screenshot_20180607-195153_nRFConnect.jpg, id=604, 1084.05pt x 1927.2pt
+<images/Screenshot_20180607-195153_nRFConnect.jpg, id=539, 1084.05pt x 1927.2pt
 >
 File: images/Screenshot_20180607-195153_nRFConnect.jpg Graphic file (type jpg)
  <use images/Screenshot_20180607-195153_nRFConnect.jpg>
 Package pdftex.def Info: images/Screenshot_20180607-195153_nRFConnect.jpg used 
-on input line 264.
+on input line 260.
 (pdftex.def)             Requested size: 92.15129pt x 163.82454pt.
 File: images/LogoBK.png Graphic file (type png)
 
 <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 264.
+Package pdftex.def Info: images/LogoBK.png used on input line 260.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [21
+ [17
 
  <./images/Screenshot_20180607-195153_nRFConnect.jpg>] <images/image007.jpg, id
-=627, 341.77687pt x 191.9672pt>
+=563, 341.77687pt x 191.9672pt>
 File: images/image007.jpg Graphic file (type jpg)
 
 <use images/image007.jpg>
-Package pdftex.def Info: images/image007.jpg used on input line 272.
+Package pdftex.def Info: images/image007.jpg used on input line 267.
 (pdftex.def)             Requested size: 239.24217pt x 134.37611pt.
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 272.
+Package pdftex.def Info: images/LogoBK.png used on input line 267.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [22
+ [18
 
  <./images/image007.jpg>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 277.
+(hyperref)                removing `\uhorn' on input line 272.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 277.
+(hyperref)                removing `\textacute' on input line 272.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 277.
+(hyperref)                removing `\ecircumflex' on input line 272.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 277.
+(hyperref)                removing `\dj' on input line 272.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 277.
+(hyperref)                removing `\textdotbelow' on input line 272.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 277.
+(hyperref)                removing `\ecircumflex' on input line 272.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 277.
+(hyperref)                removing `\textdotbelow' on input line 272.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 277.
+(hyperref)                removing `\uhorn' on input line 272.
 
 File: images/LogoBK.png Graphic file (type png)
 <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 287.
+Package pdftex.def Info: images/LogoBK.png used on input line 281.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [23
+ [19
 
 ]
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 288.
+(hyperref)                removing `\textacute' on input line 282.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 288.
+(hyperref)                removing `\ecircumflex' on input line 282.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 288.
+(hyperref)                removing `\textdotbelow' on input line 282.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 288.
+(hyperref)                removing `\acircumflex' on input line 282.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 289.
+(hyperref)                removing `\textacute' on input line 283.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 289.
+(hyperref)                removing `\ecircumflex' on input line 283.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 289.
+(hyperref)                removing `\h' on input line 283.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 289.
+(hyperref)                removing `\dj' on input line 283.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+a'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 289.
+(hyperref)                removing `\textdotbelow' on input line 283.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 289.
+(hyperref)                removing `\dj' on input line 283.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 289.
+(hyperref)                removing `\uhorn' on input line 283.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ohorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 289.
+(hyperref)                removing `\textdotbelow' on input line 283.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 289.
+(hyperref)                removing `\ohorn' on input line 283.
+
+File: images/LogoBK.png Graphic file (type png)
+<use images/LogoBK.png>
+Package pdftex.def Info: images/LogoBK.png used on input line 291.
+(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
+ [20
+
+]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 292.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 292.
+
+
+Package hyperref Warning: Composite letter `\textacute+\ohorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 292.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 292.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 292.
+
+
+Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 292.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 292.
 
 File: images/LogoBK.png Graphic file (type png)
 <use images/LogoBK.png>
 Package pdftex.def Info: images/LogoBK.png used on input line 301.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [24
+ [21
 
 ]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 301.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [25
-
-]
-File: images/LogoBK.png Graphic file (type png)
-
-<use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 301.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [26
-
-]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 301.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [27
-
-]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\u' on input line 302.
-
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\uhorn' on input line 302.
@@ -2538,114 +2583,32 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\h' on input line 302.
 
 
-Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 302.
-
-
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ecircumflex' on input line 302.
 
 File: images/LogoBK.png Graphic file (type png)
 <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 317.
+Package pdftex.def Info: images/LogoBK.png used on input line 309.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [28
-
-]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 317.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [29
-
-]
-File: images/LogoBK.png Graphic file (type png)
-
-<use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 317.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [30
-
-]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 317.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [31
-
-]
-File: images/LogoBK.png Graphic file (type png)
-
-<use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 317.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [32
-
-]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 317.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [33
+ [22
 
 ]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 318.
-
-
-Package hyperref Warning: Composite letter `\textacute+\ohorn'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 318.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 318.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 318.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 318.
+(hyperref)                removing `\h' on input line 310.
 
 File: images/LogoBK.png Graphic file (type png)
 <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 329.
+Package pdftex.def Info: images/LogoBK.png used on input line 313.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [34
+ [23
 
 ]
 File: images/LogoBK.png Graphic file (type png)
  <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 329.
+Package pdftex.def Info: images/LogoBK.png used on input line 322.
 (pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [35
-
-]
-File: images/LogoBK.png Graphic file (type png)
-
-<use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 329.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [36
-
-]
-File: images/LogoBK.png Graphic file (type png)
- <use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 329.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [37
-
-]
-File: images/LogoBK.png Graphic file (type png)
-
-<use images/LogoBK.png>
-Package pdftex.def Info: images/LogoBK.png used on input line 338.
-(pdftex.def)             Requested size: 28.45274pt x 28.74501pt.
- [38
+ [24
 
 ]
 \tf@nav=\write6
@@ -2657,31 +2620,36 @@ Package pdftex.def Info: images/LogoBK.png used on input line 338.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
  (presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 339.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 339.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 0302E39F8E765264D087D34CFEF03CA8;1051.
+(rerunfilecheck)             Checksum: FE5A8BBAE8232C18766D1AFC9C0D33B9;1109.
  ) 
 Here is how much of TeX's memory you used:
- 32084 strings out of 493333
- 631005 string characters out of 3139197
- 763748 words of memory out of 3000000
- 34867 multiletter control sequences out of 15000+200000
- 552991 words of font info for 70 fonts, out of 3000000 for 9000
+ 32224 strings out of 493333
+ 633400 string characters out of 3139197
+ 768166 words of memory out of 3000000
+ 35026 multiletter control sequences out of 15000+200000
+ 564059 words of font info for 100 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,83p,10427b,1716s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vnss10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/vntex/vnr/vnss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/vn
-tex/vnr/vnss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vnss8.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vnss9.pfb>
-Output written on presentation.pdf (38 pages, 3460322 bytes).
+ 56i,15n,83p,10427b,1680s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/pala
+tino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vnss10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vnss12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/vntex/vnr/vnss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/vntex/vnr/vnss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vn
+ss9.pfb>
+Output written on presentation.pdf (24 pages, 3491039 bytes).
 PDF statistics:
- 1049 PDF objects out of 1200 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
- 387 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 775 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 
