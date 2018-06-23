@@ -25,6 +25,8 @@
 \usepackage{multicol}
 \setlength{\columnseprule}{0.5pt}
 \def\columnseprulecolor{\color{blue!80}}
+\setbeamerfont{footnote}{size=\tiny}
+%\renewcommand{\footnoterule}{}
 \beamertemplatenavigationsymbolsempty
 \newcommand\AtPagemyUpperLeft[1]{\AtPageLowerLeft{%
 \put(\LenToUnit{0.882\paperwidth},\LenToUnit{0.88\paperheight}){#1}}}
@@ -47,7 +49,7 @@ GVPB&TS.Lê Trọng Nhân&1. &Nguyễn Hương & $\displaystyle{-}$ & 1411646\\
 \end{tabular} 
 }
 \setbeamertemplate{footline}[text line]{%
-  \parbox{\linewidth}{\vspace*{-15pt}Humanoid Robot \hfill Đại Học Bách Khoa Tp.HCM \hfill\insertframenumber}}
+  \parbox{\linewidth}{\vspace*{-15pt}  \hfill\insertframenumber}}
 \setbeamertemplate{navigation symbols}{}
 \newcounter{sauvegardeenumi}
 \newcommand{\asuivre}{\setcounter{sauvegardeenumi}{\theenumi}}
@@ -86,15 +88,15 @@ GVPB&TS.Lê Trọng Nhân&1. &Nguyễn Hương & $\displaystyle{-}$ & 1411646\\
 \subsection{Giới hạn đề tài}
 \begin{frame}{Giới thiệu}{Giới hạn đề tài}
 \begin{itemize}
-\item Giới hạn của phần cứng robot.
-\item Hạn chế về điện áp của board Intel Edison. 
+\item Hiện thực một số chuyển động cơ bản.
+\item Việc điều khiển Robot không thông qua Internet. 
 \end{itemize}
 \end{frame}
 
 \section{Phương pháp tiếp cận}
 \subsection{Phần cứng}
-{
- \setbeamertemplate{footline}{}
+%{
+% \setbeamertemplate{footline}{}
 \begin{frame}{Phương pháp tiếp cận}{Phần cứng}
 \begin{figure}[hbtp]
 \centering
@@ -104,7 +106,8 @@ GVPB&TS.Lê Trọng Nhân&1. &Nguyễn Hương & $\displaystyle{-}$ & 1411646\\
 
 \begin{itemize}
 \item Kích thước: 320x120x505mm
-\item Khối lượng: 1.65KG  3.6lb
+\item Khối lượng: 1.65KG  3.6lb  
+\vspace{0.4cm}
 \item Điện áp: 5-7.4V
 \item Hệ thống vận hành:  Thay đổi xung PWM truyền vào
 \item Nhiệt độ hoạt động: $-10^{o}C\thicksim50^{o}C$
@@ -114,7 +117,8 @@ GVPB&TS.Lê Trọng Nhân&1. &Nguyễn Hương & $\displaystyle{-}$ & 1411646\\
 \caption{Robot-16DOF}
 \end{figure}
 \footnotetext[1]{https://www.sainsmart.com/products/sainsmart-17-dof-biped-humanoid-kit}
-\end{frame}}
+\end{frame}
+%}
 \begin{frame}{Phương pháp tiếp cận}{Phần cứng}
 \begin{figure}[hbtp]
 \centering
