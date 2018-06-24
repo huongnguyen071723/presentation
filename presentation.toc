@@ -16,3 +16,4 @@
 \beamer@subsectionintoc {4}{2}{Kh\IeC {\'o} kh\IeC {\u a}n v\IeC {\`a} h\IeC {\uhorn }\IeC {\'\ohorn }ng gi\IeC {\h a}i quy\IeC {\'\ecircumflex }t}{21}{0}{4}
 \beamer@subsectionintoc {4}{3}{H\IeC {\uhorn }\IeC {\'\ohorn }ng ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n}{22}{0}{4}
 \beamer@subsectionintoc {4}{4}{Tham kh\IeC {\h a}o}{23}{0}{4}
+\contentsline {chapter}{Tham Kh\IeC {\h a}o}
