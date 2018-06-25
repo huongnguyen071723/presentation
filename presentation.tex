@@ -75,23 +75,38 @@ GVPB&TS.Lê Trọng Nhân&1. &Nguyễn Hương & $\displaystyle{-}$ & 1411646\\
 \tableofcontents
 \end{frame}
 }
-\section{Giới thiệu}
-\subsection{Mục tiêu đề tài}
-\begin{frame}{Giới thiệu}{Mục tiêu đề tài}
+%\section{Giới thiệu}
+\section{Mục tiêu đề tài}
+\begin{frame}{Mục tiêu đề tài}
 \begin{itemize}
 \item Thực hiện các tư thế chuyển động giống người.
+\begin{itemize}
+\item Quay trái
+\item Quay phải
+\item ...
+\end{itemize}
 \item Hiện thực các phương pháp giao tiếp và điều khiển robot người thông qua wifi, BLE, tay cầm.
 \item Tìm hiểu thiết kế cơ khí của Robot.
-\item Tìm hiểu máy tính nhúng, lập trình Android cơ bản.
-\end{itemize}
-\end{frame}
-\subsection{Giới hạn đề tài}
-\begin{frame}{Giới thiệu}{Giới hạn đề tài}
+\item Tìm hiểu máy tính nhúng
 \begin{itemize}
-\item Hiện thực một số chuyển động cơ bản.
-\item Việc điều khiển Robot không thông qua Internet. 
+\item Công cụ hỗ trợ 
+\item Tạo service
+\end{itemize}
+\item Lập trình Android cơ bản
+\begin{itemize}
+\item Thiết kế giao diện
+\item Socket 
+\item API Google
+\end{itemize}
 \end{itemize}
 \end{frame}
+%\subsection{Giới hạn đề tài}
+%\begin{frame}{Giới thiệu}{Giới hạn đề tài}
+%\begin{itemize}
+%\item Hiện thực một số chuyển động cơ bản.
+%\item Việc điều khiển Robot không thông qua Internet. 
+%\end{itemize}
+%\end{frame}
 
 \section{Phương pháp tiếp cận}
 \subsection{Phần cứng}
@@ -151,6 +166,10 @@ GVPB&TS.Lê Trọng Nhân&1. &Nguyễn Hương & $\displaystyle{-}$ & 1411646\\
 Phương thức điều khiển:
 \begin{itemize}
 \item Wifi
+\begin{itemize}
+\item Botton(Web)
+\item Voice App
+\end{itemize}
 \item BLE
 \item Tay cầm
 \end{itemize}
@@ -231,41 +250,45 @@ Phương thức điều khiển:
 \begin{figure}[hbtp]
 \centering
 \includegraphics[scale=0.25]{images/web_layout.PNG}
-\caption{Giao diện Web điều khiển}
-\end{figure}
-\end{frame}
-\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{1. Web}
-\begin{figure}[hbtp]
-\centering
 \includegraphics[scale=0.6]{images/flowchart_web.png}
-\caption{Flowchart hoạt động}
+\caption{Giao diện, flowchart  Web}
 \end{figure}
 \end{frame}
+%\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{1. Web}
+%\begin{figure}[hbtp]
+%\centering
+%\includegraphics[scale=0.6]{images/flowchart_web.png}
+%\caption{Flowchart hoạt động}
+%\end{figure}
+%\end{frame}
 \begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{2. Android App}
 \begin{figure}[hbtp]
 \centering
 \includegraphics[scale=0.22]{images/1528618723907.JPEG}
+\includegraphics[scale=0.43]{images/flowchart_app.png}
 \caption{Giao diện điều khiển}
 \end{figure}
 \end{frame}
+%\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{2. Android App}
+%\begin{figure}[hbtp]
+%\centering
+%\includegraphics[scale=0.45]{images/flowchart_app.png}
+%\caption{Flowchart hoạt động}
+%\end{figure}
+%\end{frame}
 \begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{2. Android App}
 \begin{figure}[hbtp]
 \centering
-\includegraphics[scale=0.45]{images/flowchart_app.png}
-\caption{Flowchart hoạt động}
-\end{figure}
-\end{frame}
-\begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{2. Android App}
-\begin{figure}[hbtp]
-\centering
-\includegraphics[scale=0.085]{images/Screenshot_20180607-195153_nRFConnect.jpg}
+\includegraphics[scale=0.4]{images/nRF.png} 
+\includegraphics[scale=0.07]{images/BLEApp.png} 
 \caption{App điều khiển thông qua BLE}
 \end{figure}
 \end{frame}
 \begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{3. Tay cầm}
 \begin{figure}[hbtp]
 \centering
-\includegraphics[scale=0.7]{images/image007.jpg}
+\includegraphics[scale=0.43]{images/image007.jpg}
+\includegraphics[scale=0.25]{images/PS2GamePad.jpg}
 %\caption{}
 \end{figure}
 \end{frame}
@@ -275,13 +298,28 @@ Phương thức điều khiển:
 %\end{frame}
 \subsection{Tư thế đã hiện thực}
 \begin{frame}{Thiết kế \& Hiện thực}{Tư thế đã hiện thực}
+\begin{multicols}{2}
+{
 \begin{itemize}
 \item Đi thẳng
 \item Quay trái
 \item Quay phải
 \item Sang trái
 \item Sang phải
+\item Đá bóng
+\item Mang đồ vật
 \end{itemize}
+}
+\columnbreak
+
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.1]{images/Results/RotateLeft.jpg}
+\includegraphics[scale=0.1]{images/Results/RotateLeft2.jpg}
+\caption{Robot sang trái}
+\end{figure}
+
+\end{multicols}
 \end{frame}
 \section{Kết luận}
 \subsection{Kết quả đạt được}
@@ -293,22 +331,38 @@ Phương thức điều khiển:
 \item Giao thức kết nối.
 \end{itemize}
 \end{frame}
-\subsection{Khó khăn và hướng giải quyết}
-\begin{frame}{Kết luận}{Khó khăn và hướng giải quyết}
+\subsection{Khó khăn}
+\begin{frame}{Kết luận}{Khó khăn}
 \begin{itemize}
-\item Cấp nguồn cho Intel Edison.
+\item Lưu ý điện áp của Intel Edison
 \item Đụng độ socket.
 \item Tạo domain name cho Intel Edison.
-\item Tài liệu tham khảo từ Torobot.
-\item Điều chỉnh robot theo từng tư thế.
+\item Tài liệu tham khảo từ Torobot đa số bằng tiếng Trung.
+\item Điều chỉnh trọng tâm theo từng tư thế.
 \end{itemize}
 \end{frame}
 \subsection{Hướng phát triển}
 \begin{frame}{Kết luận}{Hướng phát triển}
 \begin{itemize}
-\item Nhúng thêm sensor để robot có thể di chuyển một cách tự động.
-\item Phát triển những tư thế phức tạp hơn. 
-\item Chia chế độ hoạt động cho robot.
+\item Nhúng thêm sensor để robot di chuyển một cách tự động
+\begin{itemize}
+\item Sensor siêu âm: tránh vật cản
+\item Sensor hồng ngoại: di chuyển theo đường cho trước
+\item IMU sensor: tự động cân bằng
+\end{itemize}
+\item Phát triển những tư thế phức tạp hơn:
+\begin{itemize}
+\item Nhảy cóc, tự đứng dậy khi ngã
+\item Lên xuống cầu thang
+\item Đấm, đá, thủ thế...
+\end{itemize}
+\item Chia chế độ hoạt động:
+\begin{itemize}
+\item Balancing Mode
+\item Soccer Mode
+\item Fighting Mode
+\item Carry Mode
+\end{itemize}
 \end{itemize}
 \end{frame}
 \subsection{Tham khảo}
