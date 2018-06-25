@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.20)  25 JUN 2018 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.20)  25 JUN 2018 16:57
 entering extended mode
 **./presentation.tex
 (presentation.tex
@@ -2306,12 +2306,12 @@ File: images/1528618723907.JPEG Graphic file (type jpg)
 Package pdftex.def Info: images/1528618723907.JPEG used on input line 300.
 (pdftex.def)             Requested size: 89.43439pt x 154.68839pt.
 
-<images/flowchart_app.png, id=411, 464.34898pt x 253.79858pt>
+<images/flowchart_app.png, id=411, 464.34898pt x 285.9502pt>
 File: images/flowchart_app.png Graphic file (type png)
 
 <use images/flowchart_app.png>
 Package pdftex.def Info: images/flowchart_app.png used on input line 300.
-(pdftex.def)             Requested size: 199.66617pt x 109.13126pt.
+(pdftex.def)             Requested size: 199.66617pt x 122.95618pt.
 
 Overfull \hbox (10.26343pt too wide) in paragraph at lines 300--300
  [][] 
@@ -2592,7 +2592,7 @@ C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vnss12.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/vntex/vnr/vnss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/vntex/vnr/vnss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vn
 ss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on presentation.pdf (21 pages, 8366987 bytes).
+Output written on presentation.pdf (21 pages, 8378406 bytes).
 PDF statistics:
  689 PDF objects out of 1000 (max. 8388607)
  67 named destinations out of 1000 (max. 500000)
