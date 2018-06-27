@@ -196,7 +196,7 @@ Phương thức điều khiển:
 \begin{itemize}
 \item Wifi
 \begin{itemize}
-\item Botton(Web)
+\item Button(Web)
 \item Voice App
 \end{itemize}
 \item BLE
@@ -206,7 +206,7 @@ Phương thức điều khiển:
 \begin{frame}{Thiết kế \& Hiện thực}{Mô hình hệ thống}
 \begin{figure}[hbtp]
 \centering
-\includegraphics[scale=0.5]{images/protocol.png}
+\includegraphics[scale=0.2]{images/protocol.png}
 \caption{Giao thức kết nối}
 \end{figure}
 \end{frame}
@@ -218,62 +218,62 @@ Phương thức điều khiển:
 \caption{Cấu trúc tổng quát}
 \end{figure}
 \end{frame}
-\begin{frame}{Thiết kế \& Hiện thực}{Module xử lí chính}
-\begin{figure}[H]
-\begin{adjustbox}{max totalsize={1\textwidth}{0.77\textheight},center}
-\begin{tikzpicture}[mindmap, grow cyclic,align=flush center, every node/.style=concept, concept color=orange!80, text=black!90, scale= 1.1,
-    level 1/.append style={level distance=4cm,sibling angle=72},
-    level 2/.append style={level distance=3cm,sibling angle=55},
-    level 3/.append style={level distance=2cm,sibling angle=38},
-    level 4/.append style={level distance=3cm,sibling angle=30}]
-
-\node[scale = 0.9]{Ứng dụng}
-    child [concept color=blue!75] { node {Package}
-    	child[sibling angle=95]{ node{mraa}}
-        child[] { node {Nodejs}
-			child[]{node{bleno}} 
-			child[]{node{http}
-				%child[level distance=2cm,sibling angle=-90,concept color=blue!60]{ node{ESP-8266}}			
-			}       
-			child[]{node{express}
-			}
-			child[]{node{morgan}
-			}
-			child[]{node{path}
-			}
-			child[]{node{mraa}
-			}
-        }     
-    }
-    child [concept color=yellow!70] { node {Kết nối}
-        child { node {Wifi}}
-        child { node {BLE}}
-    }
-    child [concept color=green!75] { node {Cấu trúc}
-        child [sibling angle=110] { node {server}
-			child[concept color=green!55]{node {}}
-			child[concept color=green!55]{node{}}
-			child[concept color=green!55]{node{}} 
-        }
-        child[] { node {web}
-			child[concept color=green!55]{node{css}}
-			child[concept color=green!55]{node{html}}
-			child[concept color=green!55]{node{JS}}         
-        }
-    }
-    child [concept color=red!70] { node {Ngôn ngữ}
-        child []{ node {JavaScript}   
-        }
-        child [] { node {html}
-        }
-        child []{ node {css}}
-    };
-
-\end{tikzpicture}
-\end{adjustbox}
-\caption{Mô hình ứng dụng trên Intel Edison}
-\end{figure}
-\end{frame}
+%\begin{frame}{Thiết kế \& Hiện thực}{Module xử lí chính}
+%\begin{figure}[H]
+%\begin{adjustbox}{max totalsize={1\textwidth}{0.77\textheight},center}
+%\begin{tikzpicture}[mindmap, grow cyclic,align=flush center, every node/.style=concept, concept color=orange!80, text=black!90, scale= 1.1,
+%    level 1/.append style={level distance=4cm,sibling angle=72},
+%    level 2/.append style={level distance=3cm,sibling angle=55},
+%    level 3/.append style={level distance=2cm,sibling angle=38},
+%    level 4/.append style={level distance=3cm,sibling angle=30}]
+%
+%\node[scale = 0.9]{Ứng dụng}
+%    child [concept color=blue!75] { node {Package}
+%    	child[sibling angle=95]{ node{mraa}}
+%        child[] { node {Nodejs}
+%			child[]{node{bleno}} 
+%			child[]{node{http}
+%				%child[level distance=2cm,sibling angle=-90,concept color=blue!60]{ node{ESP-8266}}			
+%			}       
+%			child[]{node{express}
+%			}
+%			child[]{node{morgan}
+%			}
+%			child[]{node{path}
+%			}
+%			child[]{node{mraa}
+%			}
+%        }     
+%    }
+%    child [concept color=yellow!70] { node {Kết nối}
+%        child { node {Wifi}}
+%        child { node {BLE}}
+%    }
+%    child [concept color=green!75] { node {Cấu trúc}
+%        child [sibling angle=110] { node {server}
+%			child[concept color=green!55]{node {}}
+%			child[concept color=green!55]{node{}}
+%			child[concept color=green!55]{node{}} 
+%        }
+%        child[] { node {web}
+%			child[concept color=green!55]{node{css}}
+%			child[concept color=green!55]{node{html}}
+%			child[concept color=green!55]{node{JS}}         
+%        }
+%    }
+%    child [concept color=red!70] { node {Ngôn ngữ}
+%        child []{ node {JavaScript}   
+%        }
+%        child [] { node {html}
+%        }
+%        child []{ node {css}}
+%    };
+%
+%\end{tikzpicture}
+%\end{adjustbox}
+%\caption{Mô hình ứng dụng trên Intel Edison}
+%\end{figure}
+%\end{frame}
 \subsection{Module điều khiển}
 \begin{frame}{Thiết kế \& Hiện thực}{Module điều khiển}{1. Web}
 \begin{figure}[hbtp]
@@ -336,7 +336,7 @@ Phương thức điều khiển:
 \item Sang trái
 \item Sang phải
 \item Đá bóng
-\item Mang đồ vật
+\item Nâng đồ vật
 \end{itemize}
 }
 \columnbreak
@@ -358,6 +358,7 @@ Phương thức điều khiển:
 \item Sử dụng được Intel Edison và phần mở rộng.
 \item Thiết kế App Android đơn giản.
 \item Sử dụng thành công các giao thức kết nối.
+\item Hiện thực một số tư thế cơ bản để Robot hoạt động được giống người.
 \end{itemize}
 \end{frame}
 \subsection{Khó khăn}
@@ -368,6 +369,7 @@ Phương thức điều khiển:
 \item Tạo domain name cho Intel Edison.
 \item Tài liệu tham khảo từ Torobot đa số bằng tiếng Trung.
 \item Điều chỉnh trọng tâm theo từng tư thế.
+\item Đĩa Servo bị mòn sau quá trình điều khiển kéo dài.
 \end{itemize}
 \end{frame}
 
