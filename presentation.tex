@@ -79,15 +79,15 @@ GVPB&TS.Lê Trọng Nhân&1. &Nguyễn Hương & $\displaystyle{-}$ & 1411646\\
 \section{Mục tiêu đề tài}
 \begin{frame}{Mục tiêu đề tài}
 \begin{itemize}
+\item Tìm hiểu thiết kế cơ khí của Robot.
+\item Tìm hiểu máy tính nhúng
 \item Thực hiện các tư thế chuyển động giống người.
 \begin{itemize}
-\item Quay trái
-\item Quay phải
+\item Di chuyển
+\item Hoạt động: đá bóng
 \item ...
 \end{itemize}
 \item Hiện thực các phương pháp giao tiếp và điều khiển robot người thông qua wifi, BLE, tay cầm.
-\item Tìm hiểu thiết kế cơ khí của Robot.
-\item Tìm hiểu máy tính nhúng
 \begin{itemize}
 \item Công cụ hỗ trợ 
 \item Tạo service
@@ -169,7 +169,7 @@ Base Block: cung cấp cổng Console và OTG.
 \end{figure}
 \columnbreak 
 
-Intel Edison: máy tính nhúng hỗ trợ đa nền tảng.
+Intel Edison: máy tính nhúng hỗ trợ đa nền tảng, hỗ trợ BLE, wifi.
 \end{multicols}
 \end{frame}
 \subsection{Mô hình chuyển động của robot}
@@ -356,18 +356,26 @@ Phương thức điều khiển:
 \begin{itemize}
 \item Hiểu rõ cấu tạo, nguyên lý thiết kế phần khung cơ thể và cách chuyển động của robot.
 \item Sử dụng được Intel Edison và phần mở rộng.
-\item Thiết kế App Android.
-\item Giao thức kết nối.
+\item Thiết kế App Android đơn giản.
+\item Sử dụng thành công các giao thức kết nối.
 \end{itemize}
 \end{frame}
 \subsection{Khó khăn}
 \begin{frame}{Kết luận}{Khó khăn}
 \begin{itemize}
 \item Lưu ý điện áp của Intel Edison
-\item Đụng độ socket.
+\item Đụng độ socket giữa Wifi và BLE trong Nodejs.
 \item Tạo domain name cho Intel Edison.
 \item Tài liệu tham khảo từ Torobot đa số bằng tiếng Trung.
 \item Điều chỉnh trọng tâm theo từng tư thế.
+\end{itemize}
+\end{frame}
+
+\subsection{Hướng ứng dụng}
+\begin{frame}{Kết luận}{Hướng ứng dụng}
+\begin{itemize}
+\item Phát triển robot người thành đồ chơi cho trẻ em. Có thể ứng dụng cho điều trị bệnh tự kỷ ở trẻ.
+\item Phát triển chức năng điều khiển bằng giọng nói có thể hỗ trợ từ xa cho người già thực hiện một số hoạt động đơn giản: mang vác đồ vật nhẹ, nhảy theo điệu nhạc (tạo niềm vui).
 \end{itemize}
 \end{frame}
 \subsection{Hướng phát triển}
