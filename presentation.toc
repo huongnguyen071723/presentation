@@ -12,6 +12,7 @@
 \beamer@sectionintoc {4}{K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{17}{0}{4}
 \beamer@subsectionintoc {4}{1}{K\IeC {\'\ecircumflex }t qu\IeC {\h a} \IeC {\dj }\IeC {\d a}t \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c}{17}{0}{4}
 \beamer@subsectionintoc {4}{2}{Kh\IeC {\'o} kh\IeC {\u a}n}{18}{0}{4}
-\beamer@subsectionintoc {4}{3}{H\IeC {\uhorn }\IeC {\'\ohorn }ng ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n}{19}{0}{4}
-\beamer@subsectionintoc {4}{4}{Tham kh\IeC {\h a}o}{20}{0}{4}
+\beamer@subsectionintoc {4}{3}{H\IeC {\uhorn }\IeC {\'\ohorn }ng \IeC {\'\uhorn }ng d\IeC {\d u}ng}{19}{0}{4}
+\beamer@subsectionintoc {4}{4}{H\IeC {\uhorn }\IeC {\'\ohorn }ng ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n}{20}{0}{4}
+\beamer@subsectionintoc {4}{5}{Tham kh\IeC {\h a}o}{21}{0}{4}
 \contentsline {chapter}{Tham Kh\IeC {\h a}o}
